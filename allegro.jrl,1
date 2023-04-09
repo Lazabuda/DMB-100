@@ -1,0 +1,56 @@
+\t (00:00:13) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Sat Apr  8 04:29:14 2023
+\t (00:00:13)         Host=DESKTOP-IGF2UAR User=lazab Pid=15492 CPUs=8
+\t (00:00:13) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\Projects\Ship Scales\DMB-100\DMB-100\ship_scales.brd
+\t (00:00:13) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:14) Opening existing design...
+\i (00:00:14) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ship_scales
+\d (00:00:14) Design opened: E:/Projects/Ship Scales/DMB-100/DMB-100/ship_scales.brd
+\t (00:00:14) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:14) trapsize 3765
+\i (00:00:15) trapsize 4146
+\t (00:00:15) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:15) trapsize 4244
+\i (00:00:15) trapsize 4244
+\i (00:00:15) trapsize 1212
+\i (00:00:16) generaledit 
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 84.9646 -43.8512
+\t (00:00:16) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:16) trapsize 2423
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 84.9646 -43.8512
+\t (00:00:16) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:16) trapsize 4847
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 84.9645 -43.8512
+\t (00:00:16) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:16) trapsize 9693
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 65.3839 -36.0965
+\t (00:00:18) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:18) trapsize 4847
+\i (00:00:19) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 70.0367 -29.3112
+\t (00:00:20) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:20) trapsize 2423
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 70.0367 -29.3112
+\i (00:00:20) trapsize 1212
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 70.0367 -29.3112
+\i (00:00:20) trapsize 606
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 68.0618 -31.1287
+\i (00:00:21) trapsize 1212
+\i (00:00:22) exit 
+\t (00:00:23)     Journal end - Sat Apr  8 04:29:24 2023

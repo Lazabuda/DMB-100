@@ -35,7 +35,7 @@
         (Type "Schematic Library"))
       (File ".\inductance.olb"
         (Type "Schematic Library")))
-    ("Allegro Netlist Directory" "E:\Projects\Ship Scales\netlist")
+    ("Allegro Netlist Directory" "..\power supply")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (NoModify)
@@ -275,74 +275,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "e:\projects\ship scales\cadence_design\ship_scales.dsn")
-      (Path "Design Resources"
-         "e:\projects\ship scales\cadence_design\ship_scales.dsn" "SCHEMATIC1")
-      (Path "Design Resources"
-         "e:\projects\ship scales\cadence_design\ship_scales.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\connectors.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\mcu.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\crystals.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\resistors.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\capacitors.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\ic.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\led.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\others.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\transistors.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\diodes.olb")
-      (Path "Design Resources" "Library"
-         "e:\projects\ship scales\cadence_design\inductance.olb")
       (Path "Layout")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "e:\projects\ship scales\cadence_design\ship_scales.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 298 0 533"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1227 24 551")
-        (Scroll "-248 -2")
-        (Zoom "42")
-        (Occurrence "/"))
-      (Path "E:\PROJECTS\SHIP SCALES\CADENCE_DESIGN\SHIP_SCALES.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "MAIN_MK_USB_RTC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1227 24 551")
-        (Scroll "-248 -2")
-        (Zoom "42")
-        (Occurrence "/"))
-      (Path "E:\PROJECTS\SHIP SCALES\CADENCE_DESIGN\SHIP_SCALES.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "CONN_Periph_ADC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1227 24 551")
-        (Scroll "161 0")
-        (Zoom "168")
-        (Occurrence "/"))
-      (Path "E:\PROJECTS\SHIP SCALES\CADENCE_DESIGN\SHIP_SCALES.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "Power")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 447"))
+      (Tab 0)))
   (MPSSessionName "lazab")
   (ISPCBBASICLICENSE "false"))

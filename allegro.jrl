@@ -1,0 +1,129 @@
+\t (00:00:03) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Apr  8 04:34:12 2023
+\t (00:00:03)         Host=DESKTOP-IGF2UAR User=lazab Pid=12796 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\Projects\Ship Scales\DMB-100\DMB-100\ship_scales.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ship_scales
+\d (00:00:06) Design opened: E:/Projects/Ship Scales/DMB-100/DMB-100/ship_scales.brd
+\t (00:00:06) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:06) trapsize 3765
+\i (00:00:06) trapsize 4146
+\t (00:00:06) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:06) trapsize 4244
+\i (00:00:07) trapsize 4244
+\i (00:00:07) trapsize 1212
+\i (00:00:07) generaledit 
+\i (00:00:08) roam start
+\i (00:00:08) roam x -48
+\i (00:00:08) roam y -80
+\i (00:00:08) roam y -16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam y -16
+\i (00:00:08) roam y -16
+\i (00:00:09) roam x 32
+\i (00:00:09) roam y -32
+\i (00:00:09) roam x 16
+\i (00:00:09) roam x 16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam x 48
+\i (00:00:09) roam y -32
+\i (00:00:09) roam x 16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam x 16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y 32
+\i (00:00:10) roam y 48
+\i (00:00:10) roam y 16
+\i (00:00:10) roam y 32
+\i (00:00:10) roam y 16
+\i (00:00:10) roam x -16
+\i (00:00:10) roam y 32
+\i (00:00:10) roam y 16
+\i (00:00:10) roam x -16
+\i (00:00:10) roam end
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 87.0633 -35.0544
+\t (00:00:11) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:11) trapsize 2423
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 87.0632 -35.0543
+\t (00:00:11) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:11) trapsize 4847
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 66.4164 -24.6825
+\t (00:00:12) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:12) trapsize 2423
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 66.4164 -24.6825
+\i (00:00:12) trapsize 1212
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 66.4164 -24.6825
+\i (00:00:12) trapsize 606
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 68.5126 -24.4522
+\i (00:00:16) trapsize 303
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 68.5490 -24.4522
+\i (00:00:16) trapsize 151
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 68.5854 -24.5461
+\i (00:00:18) trapsize 303
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 68.5793 -24.7399
+\i (00:00:27) trapsize 606
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 68.5794 -24.7399
+\i (00:00:28) trapsize 1212
+\i (00:00:29) roam start
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x 16
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -32
+\i (00:00:29) roam x 16
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x 16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -16
+\i (00:00:29) roam y -32
+\i (00:00:29) roam y -16
+\i (00:00:30) roam y -16
+\i (00:00:30) roam y -16
+\i (00:00:30) roam end
+\i (00:00:39) exit 
+\t (00:00:39)     Journal end - Sat Apr  8 04:34:48 2023
